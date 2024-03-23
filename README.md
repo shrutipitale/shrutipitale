@@ -1,3 +1,5 @@
+![logo](https://github.com/shrutipitale/Shruti-Pitale/blob/42813a80e72c595c780648b5d714153378e7336f/Black%20and%20Red%20Gradient%20Professional%20LinkedIn%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Shruti Pitale</h1>
 <h3 align="center">A passionate "University of Mumbai Student Pursuing Data Engineering and Cyber Security Honors Degree with Proficiency in SQL, Python, Tableau & Power BI"</h3>
 
