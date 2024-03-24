@@ -19,8 +19,8 @@ I'm dedicated to unraveling insights from complex datasets and harnessing the po
 <a href="https://linkedin.com/in/https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" height="30" width="40" /></a><a href="https://medium.com/@shrutipitale240" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shrutipitale240" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
 
+<h2 lign="left">🚀 Some Tools I Use</h2>
   
   <h1>Programming Languages</h1>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
@@ -63,14 +63,18 @@ I'm dedicated to unraveling insights from complex datasets and harnessing the po
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrutipitale&show_icons=true&text_color=000000&bg_color=fffafa&locale=en&layout=compact" alt="shrutipitale" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrutipitale&show_icons=true&theme=onedark&title_color=195466&text_color=#599cab&bg_color=11151c&locale=en&layout=compact" alt="shrutipitale" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shrutipitale&show_icons=true&title_color=000000&text_color=000000&locale=en" alt="shrutipitale"/ ></p>
 
-<p><img align="leftleft" src="https://github-readme-streak-stats.herokuapp.com/?user=shrutipitale&theme=default" alt="shrutipitale" /></p>
+📈 my github stats
+
+<p> <img src="https://github-readme-stats.vercel.app/api?username=shrutipitale&show_icons=true&theme=gotham" alt="shrutipitale" />
+  
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=shrutipitale&theme=gotham" alt="shrutipitale" /></p>
+
+<p><a href="http://hits.dwyl.com/spiderpig86/spiderpig86/spiderpig86.svg?style=flat-square"><img src="https://hits.dwyl.com/spiderpig86/spiderpig86/spiderpig86.svg?style=flat-square" alt="HitCount"></a></p>
 
 <img src="https://raw.githubusercontent.com/shrutipitale/shrutipitale/output/snake.svg" alt="Snake animation" />
-
 
 
 
