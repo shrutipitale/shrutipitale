@@ -67,6 +67,9 @@ I'm dedicated to unraveling insights from complex datasets and harnessing the po
 
 <p><img align="leftleft" src="https://github-readme-streak-stats.herokuapp.com/?user=shrutipitale&theme=default" alt="shrutipitale" /></p>
 
+<img src="https://raw.githubusercontent.com/shrutipitale/shrutipitale/output/snake.svg" alt="Snake animation" />
+
+
 
 
 
