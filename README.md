@@ -62,10 +62,7 @@ I'm dedicated to unraveling insights from complex datasets and harnessing the po
  <img src="https://imgs.search.brave.com/29GQP3JWD8dJXdokqHqKoHX2FZpFWHxPbUyxwzqP5RY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8w/LzA4L0NhbnZhX2lj/b25fMjAyMS5zdmc.svg" alt="Canva" width="40" height="40"/></p>
 
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrutipitale&show_icons=true&theme=onedark&title_color=195466&text_color=#599cab&bg_color=11151c&locale=en&layout=compact" alt="shrutipitale" /></p>
-
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutipitale&theme=gotham&langs_count=6&layout=compact" alt="Top Languages" /></p>
 📈 my github stats
 
 <p> <img src="https://github-readme-stats.vercel.app/api?username=shrutipitale&show_icons=true&theme=gotham" alt="shrutipitale" />
@@ -75,6 +72,10 @@ I'm dedicated to unraveling insights from complex datasets and harnessing the po
 <p><a href="http://hits.dwyl.com/spiderpig86/spiderpig86/spiderpig86.svg?style=flat-square"><img src="https://hits.dwyl.com/spiderpig86/spiderpig86/spiderpig86.svg?style=flat-square" alt="HitCount"></a></p>
 
 <img src="https://raw.githubusercontent.com/shrutipitale/shrutipitale/output/snake.svg" alt="Snake animation" />
+
+
+
+
 
 
 
