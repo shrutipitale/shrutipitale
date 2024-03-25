@@ -63,7 +63,9 @@ I'm dedicated to unraveling insights from complex datasets and harnessing the po
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutipitale&theme=gotham&langs_count=6&layout=compact" alt="Top Languages" /></p>
-📈 my github stats
+<h2> 🏆 GitHub Trophies</h2>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shrutipitale" alt="shrutipitale" /></a> </p>
+<h2>📈 my github stats</h2>
 
 <p> <img src="https://github-readme-stats.vercel.app/api?username=shrutipitale&show_icons=true&theme=gotham" alt="shrutipitale" />
   
@@ -72,8 +74,6 @@ I'm dedicated to unraveling insights from complex datasets and harnessing the po
 <p><a href="http://hits.dwyl.com/spiderpig86/spiderpig86/spiderpig86.svg?style=flat-square"><img src="https://hits.dwyl.com/spiderpig86/spiderpig86/spiderpig86.svg?style=flat-square" alt="HitCount"></a></p>
 
 <img src="https://raw.githubusercontent.com/shrutipitale/shrutipitale/output/snake.svg" alt="Snake animation" />
-
-
 
 
 
