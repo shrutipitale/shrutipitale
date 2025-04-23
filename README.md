@@ -1,6 +1,6 @@
 ![logo](https://github.com/shrutipitale/Shruti-Pitale/blob/42813a80e72c595c780648b5d714153378e7336f/Black%20and%20Red%20Gradient%20Professional%20LinkedIn%20Banner.png)
 
-<h3 align="left">🚀 About Me  <br><br>Hey there! 👋 I'm Shruti Pitale, a passionate Data Science 🧠💡 currently pursuing Data Engineering (Data Analytics) and Cyber Security Honors Degree.I specialize in SQL, Python, Tableau & Power BI, NLP 🗣️,and Recommendation Systems 🎬📺.  <br>I love exploring cutting-edge AI technologies, building intelligent systems, and experimenting with transformer models, vector databases, and cloud-based AI solutions ☁️.Currently, I'm diving deep into  Big Data, Machine Learning, and Deep Learning 🏋️, ✍️✨pushing the boundaries of AI-driven insights.<br>Always learning, always building—let’s connect and create something amazing! 🚀🔥</h3>
+<h3 align="left">🚀 About Me  <br><br>Hey there! 👋 I'm Shruti Pitale, a passionate Data Science 🧠💡 currently pursuing Data Engineering (Data Analytics) and Cyber Security Honors Degree.I specialize in SQL, Python, Tableau & Power BI, NLP 🗣️,and Recommendation Systems 🎬📺.  <br>I love exploring cutting-edge AI technologies, building intelligent systems, and experimenting with transformer models.☁️.Currently, I'm diving deep into  Big Data, Machine Learning,vector databases, cloud-based AI solutions and Deep Learning 🏋️, ✍️✨pushing the boundaries of AI-driven insights.<br>Always learning, always building—let’s connect and create something amazing! 🚀🔥</h3>
 
 I'm dedicated to unraveling insights from complex datasets and harnessing the power of technology to drive innovation. Proficient in SQL, Python, Tableau, and Power BI, I enjoy leveraging these tools to craft meaningful solutions and deliver actionable results. </h3>
 <img align="right" alt="coding" width="400" src="shruti.gif">
@@ -44,29 +44,15 @@ I'm dedicated to unraveling insights from complex datasets and harnessing the po
   <img width="15" />
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="60" alt="Seaborn logo"  />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="60" alt="opencv logo"  />
-  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain-wordmark.svg" height="60" alt="visualstudio logo"  />
-  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="60" alt="pycharm logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" height="60" alt="sqlite logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="60" alt="npm logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="60" alt="anaconda logo" />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" height="60" alt="neo4j logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="60" alt="anaconda logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="60" alt="matlab logo"  />
   <img width="15" />
@@ -74,9 +60,9 @@ I'm dedicated to unraveling insights from complex datasets and harnessing the po
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" height="60" alt="kaggle logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" height="60" alt="kaggle logo" />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="60" alt="jupyter logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="60" alt="jupyter logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="60" alt="jetbrains logo"  />
   <img width="15" />
@@ -88,10 +74,6 @@ I'm dedicated to unraveling insights from complex datasets and harnessing the po
   <img width="15" />
   <img src="https://github.com/user-attachments/assets/077995d2-e3b5-4607-86d6-de8565114417" height="60" alt="streamlit logo"  />
   <img width="15" />
-  <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" height="60" alt="Hadoop logo"  />
-  <img width="15" />
-  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" height="60" alt="Kafka logo"  />
-  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
@@ -100,31 +82,29 @@ I'm dedicated to unraveling insights from complex datasets and harnessing the po
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="60" alt="canva logo"  />
   <img width="15" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="60" alt="Figma logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="60" alt="apache logo"  />
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-ar21~bgwhite.svg" height="60" alt="Figma logo"  />
   <img width="15" />
 </div>
 
+<div>
+<h3>I'm diving deep into</h3>
+  <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" height="60" alt="Hadoop logo"  />
+  <img width="15" />
+  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" height="60" alt="Kafka logo"  />
+  <img width="15" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="60" alt="opencv logo"  />
+<img width="15" />
+<img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" height="60" alt="hive logo" /><img width="15" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="60" alt="mongodb logo" /><img width="15" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" height="60" alt="Oracle logo" /><img width="15" /> 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" height="60" alt="sqlite logo"  />
+  <img width="15" />
+</div>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutipitale&theme=gotham&langs_count=6&layout=compact" alt="Top Languages" /></p>
-<h2> 🏆 GitHub Trophies</h2>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shrutipitale" alt="shrutipitale" /></a> </p>
-<img align="right" height="240" src="https://media.giphy.com/media/LpovxIlh7DTfWBRDqp/giphy.gifcid=790b76115brneyimamdweorp28u11grxm8t3y1yae4fe3mdp&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 <h2>📈 My Github StatS</h2>
 <p> <img src="https://github-readme-stats.vercel.app/api?username=shrutipitale&show_icons=true&theme=gotham" alt="shrutipitale" />
   
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=shrutipitale&theme=gotham" alt="shrutipitale" /></p>
-
 <img src="https://raw.githubusercontent.com/shrutipitale/shrutipitale/output/snake.svg" alt="Snake animation" />
-
-
-
-
-
-
-
-
-
-
