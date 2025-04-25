@@ -70,7 +70,7 @@ I'm dedicated to unraveling insights from complex datasets and harnessing the po
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="60" alt="googlecloud logo"  />
   <img width="15" />
-  <img src="https://github.com/user-attachments/assets/d1dc62e9-94f9-4764-bcb4-c274a1f39258" height="60" alt="aws logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/512px-Amazon_Web_Services_Logo.svg.png?20170912170050" height="60" alt="aws logo"  />
   <img width="15" />
   <img src="https://github.com/user-attachments/assets/077995d2-e3b5-4607-86d6-de8565114417" height="60" alt="streamlit logo"  />
   <img width="15" />
