@@ -104,6 +104,14 @@ I'm dedicated to unraveling insights from complex datasets and harnessing the po
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutipitale&theme=gotham&langs_count=6&layout=compact" alt="Top Languages" /></p>
 
+Shruti Resume
+
+
+![Screenshot 2025-05-29 115117](https://github.com/user-attachments/assets/ae93eec6-9c7e-4fda-8472-b9f8bee52b4a)
+
+
+[Shruti Resume.pdf](https://github.com/user-attachments/files/20499613/Shruti.Resume.pdf)
+
 <h2>📈 My Github StatS</h2>
 <p> <img src="https://github-readme-stats.vercel.app/api?username=shrutipitale&show_icons=true&theme=gotham" alt="shrutipitale" />
   
