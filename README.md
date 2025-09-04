@@ -52,10 +52,55 @@ Some highlights:
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 </p>  
 
+# 📚 Projects & Medium Articles
+
+Welcome! Explore my **data engineering, analytics, and data science projects** along with my technical Medium articles.
+
+---
+
+## 📝 Medium Articles
+
+| Project / Topic | Link |
+|-----------------|------|
+| YouTube Data Analytics Pipeline with Cloud Data Fusion, Airflow & BigQuery | [Read Article](https://medium.com/@shrutipitale/youtube-data-analytics-pipeline-with-cloud-data-fusion-airflow-bigquery-d5f8cd5281dc) |
+| Employee and Product Data Analysis | [Read Article](https://medium.com/@shrutipitale/employee-and-product-data-analysis-c0966a4d7588) |
+| MovieLens Data Pipeline — S3 / Airflow / dbt / Snowflake | [Read Article](https://medium.com/@shrutipitale/movielens-data-pipeline-s3-airflow-dbt-snowflake-8f6e9d8262e6) |
+| Real-time Streaming with Unstructured Data | [Read Article](https://medium.com/@shrutipitale/real-time-streaming-with-unstructured-data-c29ac0ff7bf3) |
+
+---
+
+## 💻 GitHub Projects
+
+| Project / Topic | Repository |
+|-----------------|------------|
+| Real-Time Streaming with Unstructured Data on AWS using Apache Spark | [GitHub Link](https://github.com/shrutipitale/AWS-real-time-data-streaming-and-analytics-with-unstructured-data.git) |
+| MovieLens Data Pipeline — S3 / Airflow / dbt / Snowflake | [GitHub Link](https://github.com/shrutipitale/movielens-dbt-project.git) |
+| Employee and Product Data Analysis | [GitHub Link](https://github.com/shrutipitale/Employee-and-Product-Data-Analytics.git) |
+| YouTube Data Insights Pipeline with GCP | [GitHub Link](https://github.com/shrutipitale/YouTube-Data-Analytics-Pipeline-with-Cloud-Data-Fusion-Airflow-BigQuery.git) |
+| Data Science Estimator Using Glassdoor | [GitHub Link](https://github.com/shrutipitale/Data-Science-Estimator-Using-Glassdoor.git) |
+| India Premier League Analytics | [GitHub Link](https://github.com/shrutipitale/India-premier-league.git) |
+| Transactional Retail Dataset of Electronics Store | [GitHub Link](https://github.com/shrutipitale/Retail.git) |
+
+---
+
+### 📊 Tableau Dashboards
+
+| Dashboard | Repository Link |
+|-----------|----------------|
+| Cars Sales | [View](https://github.com/shrutipitale/Tableau/tree/6cabc24ce6c030777f461d00132162e91cfe37e4/Cars%20Sales) |
+| Pizza Sales Dashboard | [View](https://github.com/shrutipitale/Tableau/tree/6cabc24ce6c030777f461d00132162e91cfe37e4/Pizza%20Sales%20Dashboard) |
+| Bank Loan Dashboard | [View](https://github.com/shrutipitale/Tableau/tree/54674912e1b4f445241e6b0c30b299ee4414d0b6/bank%20loan%20Tableau) |
+| Road Accidents Dashboard | [View](https://github.com/shrutipitale/Tableau/tree/54674912e1b4f445241e6b0c30b299ee4414d0b6/Road%20Accident%20Dashboard) |
+
+---
+
+### 🔗 Connect
+
+Feel free to explore and connect with me for collaborations, discussions, or project insights!
+
 ---
 ## 📫 Connect With Me  
 - [LinkedIn](www.linkedin.com/in/shruti-pitale)  
 - [GitHub](https://github.com/shrutipitale)  
 - 📧 Email: *work.shrutipitale@gmail.com"
 ---
-✨ *“Transforming raw data into meaningful, AI-powered insights.”*  
