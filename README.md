@@ -104,3 +104,274 @@ Feel free to explore and connect with me for collaborations, discussions, or pro
 - [GitHub](https://github.com/shrutipitale)  
 - 📧 Email: *work.shrutipitale@gmail.com"
 ---
+
+# 📌 Portfolio
+
+[📝 Medium Articles](#-medium-articles) | [💻 GitHub Projects](#-github-projects) | [📊 Tableau Dashboards](#-tableau-dashboards) | [📈 Power BI Dashboards](#-power-bi-dashboards)
+
+---
+## 📝 Medium Articles
+<table>
+<tr>
+  <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
+    <img src="https://github.com/user-attachments/assets/4a82f25d-6148-43c7-be2c-ed180ab5b264" alt="Medium 1" width="200"/><br/>
+    <b>Article 1</b><br/>
+    Date: 2025-09-04 <br/>
+    <a href="https://medium.com/@yourprofile/article1">🔗 Read More</a>
+  </td>
+    <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
+      <img src="assets/medium2.png" alt="Medium 2" width="200"/><br/>
+      <b>Article 2</b><br/>
+      Date: 2025-09-04 <br/>
+      <a href="https://medium.com/@yourprofile/article2">🔗 Read More</a>
+    </td>
+    <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
+      <img src="assets/medium3.png" alt="Medium 3" width="200"/><br/>
+      <b>Article 3</b><br/>
+      Date: 2025-09-04 <br/>
+      <a href="https://medium.com/@yourprofile/article3">🔗 Read More</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
+      <img src="assets/medium4.png" alt="Medium 4" width="200"/><br/>
+      <b>Article 4</b><br/>
+      Date: 2025-09-04 <br/>
+      <a href="https://medium.com/@yourprofile/article4">🔗 Read More</a>
+    </td>
+    <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
+      <img src="assets/medium5.png" alt="Medium 5" width="200"/><br/>
+      <b>Article 5</b><br/>
+      Date: 2025-09-04 <br/>
+      <a href="https://medium.com/@yourprofile/article5">🔗 Read More</a>
+    </td>
+    <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
+      <img src="assets/medium6.png" alt="Medium 6" width="200"/><br/>
+      <b>Article 6</b><br/>
+      Date: 2025-09-04 <br/>
+      <a href="https://medium.com/@yourprofile/article6">🔗 Read More</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
+      <img src="assets/medium7.png" alt="Medium 7" width="200"/><br/>
+      <b>Article 7</b><br/>
+      Date: 2025-09-04 <br/>
+      <a href="https://medium.com/@yourprofile/article7">🔗 Read More</a>
+    </td>
+    <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
+      <img src="assets/medium8.png" alt="Medium 8" width="200"/><br/>
+      <b>Article 8</b><br/>
+      Date: 2025-09-04 <br/>
+      <a href="https://medium.com/@yourprofile/article8">🔗 Read More</a>
+    </td>
+    <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
+      <img src="assets/medium9.png" alt="Medium 9" width="200"/><br/>
+      <b>Article 9</b><br/>
+      Date: 2025-09-04 <br/>
+      <a href="https://medium.com/@yourprofile/article9">🔗 Read More</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 💻 GitHub Projects
+<table>
+  <tr>
+    <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
+      <img src="assets/github1.png" alt="GitHub 1" width="200"/><br/>
+      <b>Project 1</b><br/>
+      Date: 2025-09-04 <br/>
+      <a href="https://github.com/yourusername/project1">🔗 View Repo</a>
+    </td>
+    <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
+      <img src="assets/github2.png" alt="GitHub 2" width="200"/><br/>
+      <b>Project 2</b><br/>
+      Date: 2025-09-04 <br/>
+      <a href="https://github.com/yourusername/project2">🔗 View Repo</a>
+    </td>
+    <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
+      <img src="assets/github3.png" alt="GitHub 3" width="200"/><br/>
+      <b>Project 3</b><br/>
+      Date: 2025-09-04 <br/>
+      <a href="https://github.com/yourusername/project3">🔗 View Repo</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
+      <img src="assets/github4.png" alt="GitHub 4" width="200"/><br/>
+      <b>Project 4</b><br/>
+      Date: 2025-09-04 <br/>
+      <a href="https://github.com/yourusername/project4">🔗 View Repo</a>
+    </td>
+    <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
+      <img src="assets/github5.png" alt="GitHub 5" width="200"/><br/>
+      <b>Project 5</b><br/>
+      Date: 2025-09-04 <br/>
+      <a href="https://github.com/yourusername/project5">🔗 View Repo</a>
+    </td>
+    <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
+      <img src="assets/github6.png" alt="GitHub 6" width="200"/><br/>
+      <b>Project 6</b><br/>
+      Date: 2025-09-04 <br/>
+      <a href="https://github.com/yourusername/project6">🔗 View Repo</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
+      <img src="assets/github7.png" alt="GitHub 7" width="200"/><br/>
+      <b>Project 7</b><br/>
+      Date: 2025-09-04 <br/>
+      <a href="https://github.com/yourusername/project7">🔗 View Repo</a>
+    </td>
+    <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
+      <img src="assets/github8.png" alt="GitHub 8" width="200"/><br/>
+      <b>Project 8</b><br/>
+      Date: 2025-09-04 <br/>
+      <a href="https://github.com/yourusername/project8">🔗 View Repo</a>
+    </td>
+    <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
+      <img src="assets/github9.png" alt="GitHub 9" width="200"/><br/>
+      <b>Project 9</b><br/>
+      Date: 2025-09-04 <br/>
+      <a href="https://github.com/yourusername/project9">🔗 View Repo</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 Tableau Dashboards
+<table>
+  <tr>
+    <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
+      <img src="assets/tableau1.png" alt="Tableau 1" width="200"/><br/>
+      <b>Tableau Dashboard 1</b><br/>
+      Date: 2025-09-04 <br/>
+      <a href="https://public.tableau.com/views/dashboard1">🔗 View Dashboard</a>
+    </td>
+    <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
+      <img src="assets/tableau2.png" alt="Tableau 2" width="200"/><br/>
+      <b>Tableau Dashboard 2</b><br/>
+      Date: 2025-09-04 <br/>
+      <a href="https://public.tableau.com/views/dashboard2">🔗 View Dashboard</a>
+    </td>
+    <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
+      <img src="assets/tableau3.png" alt="Tableau 3" width="200"/><br/>
+      <b>Tableau Dashboard 3</b><br/>
+      Date: 2025-09-04 <br/>
+      <a href="https://public.tableau.com/views/dashboard3">🔗 View Dashboard</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
+      <img src="assets/tableau4.png" alt="Tableau 4" width="200"/><br/>
+      <b>Tableau Dashboard 4</b><br/>
+      Date: 2025-09-04 <br/>
+      <a href="https://public.tableau.com/views/dashboard4">🔗 View Dashboard</a>
+    </td>
+    <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
+      <img src="assets/tableau5.png" alt="Tableau 5" width="200"/><br/>
+      <b>Tableau Dashboard 5</b><br/>
+      Date: 2025-09-04 <br/>
+      <a href="https://public.tableau.com/views/dashboard5">🔗 View Dashboard</a>
+    </td>
+    <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
+      <img src="assets/tableau6.png" alt="Tableau 6" width="200"/><br/>
+      <b>Tableau Dashboard 6</b><br/>
+      Date: 2025-09-04 <br/>
+      <a href="https://public.tableau.com/views/dashboard6">🔗 View Dashboard</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
+      <img src="assets/tableau7.png" alt="Tableau 7" width="200"/><br/>
+      <b>Tableau Dashboard 7</b><br/>
+      Date: 2025-09-04 <br/>
+      <a href="https://public.tableau.com/views/dashboard7">🔗 View Dashboard</a>
+    </td>
+    <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
+      <img src="assets/tableau8.png" alt="Tableau 8" width="200"/><br/>
+      <b>Tableau Dashboard 8</b><br/>
+      Date: 2025-09-04 <br/>
+      <a href="https://public.tableau.com/views/dashboard8">🔗 View Dashboard</a>
+    </td>
+    <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
+      <img src="assets/tableau9.png" alt="Tableau 9" width="200"/><br/>
+      <b>Tableau Dashboard 9</b><br/>
+      Date: 2025-09-04 <br/>
+      <a href="https://public.tableau.com/views/dashboard9">🔗 View Dashboard</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📈 Power BI Dashboards
+<table>
+  <tr>
+    <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
+      <img src="assets/powerbi1.png" alt="Power BI 1" width="200"/><br/>
+      <b>Power BI Dashboard 1</b><br/>
+      Date: 2025-09-04 <br/>
+      <a href="https://app.powerbi.com/view?r=your_dashboard1">🔗 View Dashboard</a>
+    </td>
+    <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
+      <img src="assets/powerbi2.png" alt="Power BI 2" width="200"/><br/>
+      <b>Power BI Dashboard 2</b><br/>
+      Date: 2025-09-04 <br/>
+      <a href="https://app.powerbi.com/view?r=your_dashboard2">🔗 View Dashboard</a>
+    </td>
+    <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
+      <img src="assets/powerbi3.png" alt="Power BI 3" width="200"/><br/>
+      <b>Power BI Dashboard 3</b><br/>
+      Date: 2025-09-04 <br/>
+      <a href="https://app.powerbi.com/view?r=your_dashboard3">🔗 View Dashboard</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
+      <img src="assets/powerbi4.png" alt="Power BI 4" width="200"/><br/>
+      <b>Power BI Dashboard 4</b><br/>
+      Date: 2025-09-04 <br/>
+      <a href="https://app.powerbi.com/view?r=your_dashboard4">🔗 View Dashboard</a>
+    </td>
+    <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
+      <img src="assets/powerbi5.png" alt="Power BI 5" width="200"/><br/>
+      <b>Power BI Dashboard 5</b><br/>
+      Date: 2025-09-04 <br/>
+      <a href="https://app.powerbi.com/view?r=your_dashboard5">🔗 View Dashboard</a>
+    </td>
+    <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
+      <img src="assets/powerbi6.png" alt="Power BI 6" width="200"/><br/>
+      <b>Power BI Dashboard 6</b><br/>
+      Date: 2025-09-04 <br/>
+      <a href="https://app.powerbi.com/view?r=your_dashboard6">🔗 View Dashboard</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
+      <img src="assets/powerbi7.png" alt="Power BI 7" width="200"/><br/>
+      <b>Power BI Dashboard 7</b><br/>
+      Date: 2025-09-04 <br/>
+      <a href="https://app.powerbi.com/view?r=your_dashboard7">🔗 View Dashboard</a>
+    </td>
+    <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
+      <img src="assets/powerbi8.png" alt="Power BI 8" width="200"/><br/>
+      <b>Power BI Dashboard 8</b><br/>
+      Date: 2025-09-04 <br/>
+      <a href="https://app.powerbi.com/view?r=your_dashboard8">🔗 View Dashboard</a>
+    </td>
+    <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
+      <img src="assets/powerbi9.png" alt="Power BI 9" width="200"/><br/>
+      <b>Power BI Dashboard 9</b><br/>
+      Date: 2025-09-04 <br/>
+      <a href="https://app.powerbi.com/view?r=your_dashboard9">🔗 View Dashboard</a>
+    </td>
+  </tr>
+</table>
+
+
+
+
