@@ -52,47 +52,6 @@ Some highlights:
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 </p>  
 
-# 📚 Projects & Medium Articles
-
-Welcome! Explore my **data engineering, analytics, and data science projects** along with my technical Medium articles.
-
----
-
-## 📝 Medium Articles
-
-| Project / Topic | Link |
-|-----------------|------|
-| YouTube Data Analytics Pipeline with Cloud Data Fusion, Airflow & BigQuery | [Read Article](https://medium.com/@shrutipitale/youtube-data-analytics-pipeline-with-cloud-data-fusion-airflow-bigquery-d5f8cd5281dc) |
-| Employee and Product Data Analysis | [Read Article](https://medium.com/@shrutipitale/employee-and-product-data-analysis-c0966a4d7588) |
-| MovieLens Data Pipeline — S3 / Airflow / dbt / Snowflake | [Read Article](https://medium.com/@shrutipitale/movielens-data-pipeline-s3-airflow-dbt-snowflake-8f6e9d8262e6) |
-| Real-time Streaming with Unstructured Data | [Read Article](https://medium.com/@shrutipitale/real-time-streaming-with-unstructured-data-c29ac0ff7bf3) |
-
----
-
-## 💻 GitHub Projects
-
-| Project / Topic | Repository |
-|-----------------|------------|
-| Real-Time Streaming with Unstructured Data on AWS using Apache Spark | [GitHub Link](https://github.com/shrutipitale/AWS-real-time-data-streaming-and-analytics-with-unstructured-data.git) |
-| MovieLens Data Pipeline — S3 / Airflow / dbt / Snowflake | [GitHub Link](https://github.com/shrutipitale/movielens-dbt-project.git) |
-| Employee and Product Data Analysis | [GitHub Link](https://github.com/shrutipitale/Employee-and-Product-Data-Analytics.git) |
-| YouTube Data Insights Pipeline with GCP | [GitHub Link](https://github.com/shrutipitale/YouTube-Data-Analytics-Pipeline-with-Cloud-Data-Fusion-Airflow-BigQuery.git) |
-| Data Science Estimator Using Glassdoor | [GitHub Link](https://github.com/shrutipitale/Data-Science-Estimator-Using-Glassdoor.git) |
-| India Premier League Analytics | [GitHub Link](https://github.com/shrutipitale/India-premier-league.git) |
-| Transactional Retail Dataset of Electronics Store | [GitHub Link](https://github.com/shrutipitale/Retail.git) |
-
----
-
-### 📊 Tableau Dashboards
-
-| Dashboard | Repository Link |
-|-----------|----------------|
-| Cars Sales | [View](https://github.com/shrutipitale/Tableau/tree/6cabc24ce6c030777f461d00132162e91cfe37e4/Cars%20Sales) |
-| Pizza Sales Dashboard | [View](https://github.com/shrutipitale/Tableau/tree/6cabc24ce6c030777f461d00132162e91cfe37e4/Pizza%20Sales%20Dashboard) |
-| Bank Loan Dashboard | [View](https://github.com/shrutipitale/Tableau/tree/54674912e1b4f445241e6b0c30b299ee4414d0b6/bank%20loan%20Tableau) |
-| Road Accidents Dashboard | [View](https://github.com/shrutipitale/Tableau/tree/54674912e1b4f445241e6b0c30b299ee4414d0b6/Road%20Accident%20Dashboard) |
-
----
 
 ### 🔗 Connect
 
@@ -107,137 +66,123 @@ Feel free to explore and connect with me for collaborations, discussions, or pro
 
 # 📌 Portfolio
 
-[📝 Medium Articles](#-medium-articles) | [💻 GitHub Projects](#-github-projects) | [📊 Tableau Dashboards](#-tableau-dashboards) | [📈 Power BI Dashboards](#-power-bi-dashboards)
+[📝 Medium Articles](https://medium.com/@shrutipitale) | [💻 GitHub Projects](https://github.com/shrutipitale) | [📊 Tableau Dashboards](https://github.com/shrutipitale/Tableau.git) | [📈 Power BI Repo](https://github.com/shrutipitale/PowerBi.git)
 
 ---
+
+# 📚 Projects & Medium Articles
+
+Welcome! Explore my **data engineering, analytics, and data science projects** along with my technical Medium articles.
+
 ## 📝 Medium Articles
 <table>
-<tr>
+  <tr>
   <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
-    <img src="https://github.com/user-attachments/assets/4a82f25d-6148-43c7-be2c-ed180ab5b264" alt="Medium 1" width="200"/><br/>
-    <b>Article 1</b><br/>
-    Date: 2025-09-04 <br/>
-    <a href="https://medium.com/@yourprofile/article1">🔗 Read More</a>
+    <img 
+      src="https://github.com/user-attachments/assets/e775d8a5-ccf6-4dda-b06e-f8dc5a9d0d12" 
+      alt="YouTube Data Analytics Pipeline with Cloud Data Fusion, Airflow & BigQuery" 
+      width="200"
+    /><br/>
+    <b>YouTube Data Analytics Pipeline with GCP</b><br/>
+    <a href="https://medium.com/@shrutipitale/youtube-data-analytics-pipeline-with-cloud-data-fusion-airflow-bigquery-d5f8cd5281dc">🔗 Read More</a>
   </td>
-    <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
-      <img src="assets/medium2.png" alt="Medium 2" width="200"/><br/>
-      <b>Article 2</b><br/>
-      Date: 2025-09-04 <br/>
-      <a href="https://medium.com/@yourprofile/article2">🔗 Read More</a>
-    </td>
-    <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
-      <img src="assets/medium3.png" alt="Medium 3" width="200"/><br/>
-      <b>Article 3</b><br/>
-      Date: 2025-09-04 <br/>
-      <a href="https://medium.com/@yourprofile/article3">🔗 Read More</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
-      <img src="assets/medium4.png" alt="Medium 4" width="200"/><br/>
-      <b>Article 4</b><br/>
-      Date: 2025-09-04 <br/>
-      <a href="https://medium.com/@yourprofile/article4">🔗 Read More</a>
-    </td>
-    <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
-      <img src="assets/medium5.png" alt="Medium 5" width="200"/><br/>
-      <b>Article 5</b><br/>
-      Date: 2025-09-04 <br/>
-      <a href="https://medium.com/@yourprofile/article5">🔗 Read More</a>
-    </td>
-    <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
-      <img src="assets/medium6.png" alt="Medium 6" width="200"/><br/>
-      <b>Article 6</b><br/>
-      Date: 2025-09-04 <br/>
-      <a href="https://medium.com/@yourprofile/article6">🔗 Read More</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
-      <img src="assets/medium7.png" alt="Medium 7" width="200"/><br/>
-      <b>Article 7</b><br/>
-      Date: 2025-09-04 <br/>
-      <a href="https://medium.com/@yourprofile/article7">🔗 Read More</a>
-    </td>
-    <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
-      <img src="assets/medium8.png" alt="Medium 8" width="200"/><br/>
-      <b>Article 8</b><br/>
-      Date: 2025-09-04 <br/>
-      <a href="https://medium.com/@yourprofile/article8">🔗 Read More</a>
-    </td>
-    <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
-      <img src="assets/medium9.png" alt="Medium 9" width="200"/><br/>
-      <b>Article 9</b><br/>
-      Date: 2025-09-04 <br/>
-      <a href="https://medium.com/@yourprofile/article9">🔗 Read More</a>
-    </td>
-  </tr>
+  <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
+    <img 
+      src="https://github.com/user-attachments/assets/c9ebc729-e00c-4185-b339-1f33342be93c" 
+      alt="Employee and Product Data Analysis" 
+      width="200"
+    /><br/>
+    <b>Employee and Product Data Analysis</b><br/>
+    <a href="https://medium.com/@shrutipitale/employee-and-product-data-analysis-c0966a4d7588">🔗 View Repo</a>
+  </td>
+
+<td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
+  <img 
+    src="https://github.com/user-attachments/assets/f5a63945-2a92-42ba-a70a-2d90c96b8664" 
+    alt="MovieLens Data Pipeline — S3 / Airflow / dbt / Snowflake" 
+    width="200"
+  /><br/>
+  <b>MovieLens Data Pipeline — S3 / Airflow / dbt / Snowflake</b><br/>
+  <a href="https://medium.com/@shrutipitale/movielens-data-pipeline-s3-airflow-dbt-snowflake-8f6e9d8262e6">🔗 View Repo</a>
+</td>
+<td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
+  <img 
+    src="https://github.com/user-attachments/assets/18ed8c7a-2491-4630-8399-85a1df18209f" 
+    alt="Real time Streaming with Unstructured Data" 
+    width="200"
+  /><br/>
+  <b>Real time Streaming with Unstructured Data</b><br/>
+  <a href="https://medium.com/@shrutipitale/real-time-streaming-with-unstructured-data-c29ac0ff7bf3">🔗 View Repo</a>
+</td>
+</tr>
 </table>
 
 ---
 
 ## 💻 GitHub Projects
 <table>
-  <tr>
-    <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
-      <img src="assets/github1.png" alt="GitHub 1" width="200"/><br/>
-      <b>Project 1</b><br/>
-      Date: 2025-09-04 <br/>
-      <a href="https://github.com/yourusername/project1">🔗 View Repo</a>
-    </td>
-    <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
-      <img src="assets/github2.png" alt="GitHub 2" width="200"/><br/>
-      <b>Project 2</b><br/>
-      Date: 2025-09-04 <br/>
-      <a href="https://github.com/yourusername/project2">🔗 View Repo</a>
-    </td>
-    <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
-      <img src="assets/github3.png" alt="GitHub 3" width="200"/><br/>
-      <b>Project 3</b><br/>
-      Date: 2025-09-04 <br/>
-      <a href="https://github.com/yourusername/project3">🔗 View Repo</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
-      <img src="assets/github4.png" alt="GitHub 4" width="200"/><br/>
-      <b>Project 4</b><br/>
-      Date: 2025-09-04 <br/>
-      <a href="https://github.com/yourusername/project4">🔗 View Repo</a>
-    </td>
-    <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
-      <img src="assets/github5.png" alt="GitHub 5" width="200"/><br/>
-      <b>Project 5</b><br/>
-      Date: 2025-09-04 <br/>
-      <a href="https://github.com/yourusername/project5">🔗 View Repo</a>
-    </td>
-    <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
-      <img src="assets/github6.png" alt="GitHub 6" width="200"/><br/>
-      <b>Project 6</b><br/>
-      Date: 2025-09-04 <br/>
-      <a href="https://github.com/yourusername/project6">🔗 View Repo</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
-      <img src="assets/github7.png" alt="GitHub 7" width="200"/><br/>
-      <b>Project 7</b><br/>
-      Date: 2025-09-04 <br/>
-      <a href="https://github.com/yourusername/project7">🔗 View Repo</a>
-    </td>
-    <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
-      <img src="assets/github8.png" alt="GitHub 8" width="200"/><br/>
-      <b>Project 8</b><br/>
-      Date: 2025-09-04 <br/>
-      <a href="https://github.com/yourusername/project8">🔗 View Repo</a>
-    </td>
-    <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
-      <img src="assets/github9.png" alt="GitHub 9" width="200"/><br/>
-      <b>Project 9</b><br/>
-      Date: 2025-09-04 <br/>
-      <a href="https://github.com/yourusername/project9">🔗 View Repo</a>
-    </td>
-  </tr>
+<tr>
+  <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
+    <img 
+      src="https://github.com/user-attachments/assets/5217b078-9ae0-4575-b26e-960f0df8ca05" 
+      alt="Real-Time Streaming with Unstructured Data on AWS using Apache Spark" 
+      width="200"
+    /><br/>
+    <b>Real-Time Streaming with Unstructured Data on AWS using Apache Spark</b><br/>
+    <a href="https://github.com/shrutipitale/AWS-real-time-data-streaming-and-analytics-with-unstructured-data">🔗 View Repo</a>
+  </td>
+
+  <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
+    <img 
+      src="https://github.com/user-attachments/assets/281e6737-c644-448d-918b-34f4ae17e27c" 
+      alt="MovieLens Data Pipeline — S3 / Airflow / dbt / Snowflake" 
+      width="200"
+    /><br/>
+    <b>MovieLens Data Pipeline — S3 / Airflow / dbt / Snowflake</b><br/>
+    <a href="https://github.com/shrutipitale/movielens-dbt-project">🔗 View Repo</a>
+  </td>
+
+  <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
+    <img 
+      src="https://github.com/user-attachments/assets/6aef80fb-879f-4e88-b291-7bcc8b85f6cd" 
+      alt="Employee and Product Data Analysis" 
+      width="200"
+    /><br/>
+    <b>Employee and Product Data Analysis</b><br/>
+    <a href="https://github.com/shrutipitale/Employee-and-Product-Data-Analytics">🔗 View Repo</a>
+  </td>
+
+  <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
+    <img 
+      src="https://github.com/user-attachments/assets/66df36bf-d3de-4212-b437-f6d62da043dc" 
+      alt="YouTube Data Insights Pipeline with GCP" 
+      width="200"
+    /><br/>
+    <b>YouTube Data Insights Pipeline with GCP</b><br/>
+    <a href="https://github.com/shrutipitale/YouTube-Data-Analytics-Pipeline-with-Cloud-Data-Fusion-Airflow-BigQuery">🔗 View Repo</a>
+  </td>
+</tr>
+<tr>
+  <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
+    <img 
+      src="https://github.com/user-attachments/assets/93e7518e-7f5c-46ce-8284-59b5a4805b5d" 
+      alt="Data Science Estimator Using Glassdoor" 
+      width="200"
+    /><br/>
+    <b>Data Science Estimator Using Glassdoor</b><br/>
+    <a href="https://github.com/shrutipitale/Data-Science-Estimator-Using-Glassdoor.git">🔗 View Repo</a>
+  </td>
+
+  <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
+    <b>India Premier League Analytics</b><br/>
+    <a href="https://github.com/shrutipitale/India-premier-league.git">🔗 View Repo</a>
+  </td>
+
+  <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
+    <b>Transactional Retail Dataset of Electronics Store</b><br/>
+    <a href="https://github.com/shrutipitale/Retail.git">🔗 View Repo</a>
+  </td>
+</tr> 
 </table>
 
 ---
@@ -246,62 +191,20 @@ Feel free to explore and connect with me for collaborations, discussions, or pro
 <table>
   <tr>
     <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
-      <img src="assets/tableau1.png" alt="Tableau 1" width="200"/><br/>
-      <b>Tableau Dashboard 1</b><br/>
-      Date: 2025-09-04 <br/>
-      <a href="https://public.tableau.com/views/dashboard1">🔗 View Dashboard</a>
+      <b>Cars Sales	Tableau</b><br/>
+      <a href="https://github.com/shrutipitale/Tableau/tree/6cabc24ce6c030777f461d00132162e91cfe37e4/Cars%20Sales">🔗 View Repo</a>
     </td>
     <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
-      <img src="assets/tableau2.png" alt="Tableau 2" width="200"/><br/>
-      <b>Tableau Dashboard 2</b><br/>
-      Date: 2025-09-04 <br/>
-      <a href="https://public.tableau.com/views/dashboard2">🔗 View Dashboard</a>
+      <b>Pizza Sales Dashboard Tableau</b><br/>
+      <a href="">🔗 View Repo</a>
     </td>
     <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
-      <img src="assets/tableau3.png" alt="Tableau 3" width="200"/><br/>
-      <b>Tableau Dashboard 3</b><br/>
-      Date: 2025-09-04 <br/>
+      <b>Bank Loan Tableau</b><br/>
       <a href="https://public.tableau.com/views/dashboard3">🔗 View Dashboard</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
-      <img src="assets/tableau4.png" alt="Tableau 4" width="200"/><br/>
-      <b>Tableau Dashboard 4</b><br/>
-      Date: 2025-09-04 <br/>
-      <a href="https://public.tableau.com/views/dashboard4">🔗 View Dashboard</a>
-    </td>
-    <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
-      <img src="assets/tableau5.png" alt="Tableau 5" width="200"/><br/>
-      <b>Tableau Dashboard 5</b><br/>
-      Date: 2025-09-04 <br/>
-      <a href="https://public.tableau.com/views/dashboard5">🔗 View Dashboard</a>
-    </td>
-    <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
-      <img src="assets/tableau6.png" alt="Tableau 6" width="200"/><br/>
-      <b>Tableau Dashboard 6</b><br/>
-      Date: 2025-09-04 <br/>
-      <a href="https://public.tableau.com/views/dashboard6">🔗 View Dashboard</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
-      <img src="assets/tableau7.png" alt="Tableau 7" width="200"/><br/>
-      <b>Tableau Dashboard 7</b><br/>
-      Date: 2025-09-04 <br/>
-      <a href="https://public.tableau.com/views/dashboard7">🔗 View Dashboard</a>
-    </td>
-    <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
-      <img src="assets/tableau8.png" alt="Tableau 8" width="200"/><br/>
-      <b>Tableau Dashboard 8</b><br/>
-      Date: 2025-09-04 <br/>
-      <a href="https://public.tableau.com/views/dashboard8">🔗 View Dashboard</a>
-    </td>
-    <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
-      <img src="assets/tableau9.png" alt="Tableau 9" width="200"/><br/>
-      <b>Tableau Dashboard 9</b><br/>
-      Date: 2025-09-04 <br/>
-      <a href="https://public.tableau.com/views/dashboard9">🔗 View Dashboard</a>
+      <b>Road Accidents Dashboard Tableau</b><br/>
+      <a href="https://github.com/shrutipitale/Tableau/tree/54674912e1b4f445241e6b0c30b299ee4414d0b6/Road%20Accident%20Dashboard">🔗 View Repo</a>
     </td>
   </tr>
 </table>
@@ -312,66 +215,68 @@ Feel free to explore and connect with me for collaborations, discussions, or pro
 <table>
   <tr>
     <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
-      <img src="assets/powerbi1.png" alt="Power BI 1" width="200"/><br/>
-      <b>Power BI Dashboard 1</b><br/>
-      Date: 2025-09-04 <br/>
-      <a href="https://app.powerbi.com/view?r=your_dashboard1">🔗 View Dashboard</a>
+      <b>Netflix in Power BI</b><br/>
+      <a href="https://app.powerbi.com/view?r=your_dashboard1">🔗 View Repo</a>
     </td>
     <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
-      <img src="assets/powerbi2.png" alt="Power BI 2" width="200"/><br/>
-      <b>Power BI Dashboard 2</b><br/>
-      Date: 2025-09-04 <br/>
-      <a href="https://app.powerbi.com/view?r=your_dashboard2">🔗 View Dashboard</a>
+      <b>AyodhyaRam Temple in Power BI</b><br/>
+      <a href="https://github.com/shrutipitale/PowerBi/tree/5892de7366d13757184c76f8e22f511575ecdfb7/AyodhyaRamTemple">🔗 View Repo</a>
     </td>
     <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
-      <img src="assets/powerbi3.png" alt="Power BI 3" width="200"/><br/>
-      <b>Power BI Dashboard 3</b><br/>
-      Date: 2025-09-04 <br/>
-      <a href="https://app.powerbi.com/view?r=your_dashboard3">🔗 View Dashboard</a>
+      <b>Amazon Prime Video in Power BI</b><br/>
+      <a href="https://github.com/shrutipitale/PowerBi/tree/3f55d6e9282dafd5ec71ab3546c66d56bf79bcde/Amazon%20Prime">🔗 View Repo</a>
     </td>
   </tr>
   <tr>
     <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
-      <img src="assets/powerbi4.png" alt="Power BI 4" width="200"/><br/>
-      <b>Power BI Dashboard 4</b><br/>
-      Date: 2025-09-04 <br/>
-      <a href="https://app.powerbi.com/view?r=your_dashboard4">🔗 View Dashboard</a>
+      <b>FIFA World Cup in Power BI</b><br/>
+      <a href="https://github.com/shrutipitale/PowerBi/blob/abdd63d55e870a54757eea933050a52ac1633b04/FIFA%20World%20Cup/README.md">🔗 View Repo</a>
     </td>
     <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
-      <img src="assets/powerbi5.png" alt="Power BI 5" width="200"/><br/>
-      <b>Power BI Dashboard 5</b><br/>
-      Date: 2025-09-04 <br/>
-      <a href="https://app.powerbi.com/view?r=your_dashboard5">🔗 View Dashboard</a>
+      <b>Customer Churn Analysis in Power BI</b><br/>
+      <a href="https://github.com/shrutipitale/Case-Study-Analyzing-Customer-Churn-in-Power-BI.git">🔗 View Repo</a>
     </td>
     <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
-      <img src="assets/powerbi6.png" alt="Power BI 6" width="200"/><br/>
-      <b>Power BI Dashboard 6</b><br/>
-      Date: 2025-09-04 <br/>
-      <a href="https://app.powerbi.com/view?r=your_dashboard6">🔗 View Dashboard</a>
+      <b>Ecommerce Analysis in Power BI</b><br/>
+      <a href="https://github.com/shrutipitale/case-study-ecommerce-analysis-in-power-bi.git">🔗 View Repo</a>
     </td>
   </tr>
   <tr>
     <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
-      <img src="assets/powerbi7.png" alt="Power BI 7" width="200"/><br/>
-      <b>Power BI Dashboard 7</b><br/>
-      Date: 2025-09-04 <br/>
-      <a href="https://app.powerbi.com/view?r=your_dashboard7">🔗 View Dashboard</a>
+      <b>Competitor Analysis in Power BI</b><br/>
+      <a href="https://github.com/shrutipitale/competitor-analysis.git">🔗 View Repo</a>
     </td>
     <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
-      <img src="assets/powerbi8.png" alt="Power BI 8" width="200"/><br/>
-      <b>Power BI Dashboard 8</b><br/>
-      Date: 2025-09-04 <br/>
-      <a href="https://app.powerbi.com/view?r=your_dashboard8">🔗 View Dashboard</a>
+      <b>Healthcare Analytics in Power BI</b><br/>
+      <a href="https://github.com/shrutipitale/case-study-healthcare-analytics-in-power-bi.git">🔗 View Repo</a>
     </td>
     <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
-      <img src="assets/powerbi9.png" alt="Power BI 9" width="200"/><br/>
-      <b>Power BI Dashboard 9</b><br/>
-      Date: 2025-09-04 <br/>
-      <a href="https://app.powerbi.com/view?r=your_dashboard9">🔗 View Dashboard</a>
+      <b>HR Analytics in Power BI</b><br/>
+      <a href="https://github.com/shrutipitale/case-study-hr-analytics-in-power-bi.git">🔗 View Repo</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
+      <b>Inventory Analysis in Power BI</b><br/>
+      <a href="https://github.com/shrutipitale/case-study-inventory-analysis.git">🔗 View Repo</a>
+    </td>
+    <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
+      <b>Mortgage Trading Analysis in Power BI</b><br/>
+      <a href="https://github.com/shrutipitale/case-study-mortgage-trading-analysis.git">🔗 View Repo</a>
+    </td>
+    <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
+      <b>Supply Chain Analytics in Power BI</b><br/>
+      <a href="https://github.com/shrutipitale/case-study-supply-chain-analytics.git">🔗 View Repo</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
+      <b>Walmart in Power BI</b><br/>
+      <a href="https://github.com/shrutipitale/Walmart.git">🔗 View Repo</a>
+    </td>
+    <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
+      <b>Bank Loans in Power BI</b><br/>
+      <a href="https://github.com/shrutipitale/PowerBi/tree/0ae3bac5c368969ced6d2df99973ae662fcd4e9e/Bank%20Loan">🔗 View Repo</a>
     </td>
   </tr>
 </table>
-
-
-
-
