@@ -1,6 +1,6 @@
 ![logo](https://github.com/shrutipitale/Shruti-Pitale/blob/42813a80e72c595c780648b5d714153378e7336f/Black%20and%20Red%20Gradient%20Professional%20LinkedIn%20Banner.png)
 ## 🔹 About Me  
-I am a **Data Engineering and Cyber Security Honors student** with hands-on experience in **building scalable data pipelines, cloud architectures, and real-time streaming systems**.  
+I am a **Data Engineering and Cyber Security completed student** with hands-on experience in **building scalable data pipelines, cloud architectures, and real-time streaming systems**.  
 I specialize in **SQL, Python, PySpark, Tableau, and Power BI** and have worked on **ETL workflows, serverless architectures, and AI-ready data pipelines**.  
 
 Some highlights:  
