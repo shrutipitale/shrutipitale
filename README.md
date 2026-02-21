@@ -185,6 +185,22 @@ Welcome! Explore my **data engineering, analytics, and data science projects** a
 </tr> 
 </table>
 
+
+---
+
+## 📊 Python 
+<table>
+  <tr>
+    <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
+      <b>🛒 Blinkit Grocery Sales Analysis | Python Project</b><br/>
+      <a href="https://github.com/shrutipitale/Blinkit-Analysis.git">🔗 View Repo</a>
+    </td>
+    <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
+      <b>🏦 Bank Loan Analysis | Data Analyst Portfolio Project</b><br/>
+      <a href="https://github.com/shrutipitale/Bank-Loan-Analysis.git">🔗 View Repo</a>
+    </td>
+  </tr>
+</table>
 ---
 
 ## 📊 SQL 
