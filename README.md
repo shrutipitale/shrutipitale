@@ -187,6 +187,57 @@ Welcome! Explore my **data engineering, analytics, and data science projects** a
 
 ---
 
+## 📊 SQL 
+<table>
+  <tr>
+    <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
+      <b>Merchant-Interchange-Finance-Project-SQL</b><br/>
+      <a href="https://github.com/shrutipitale/Merchant-Interchange-Finance-Project-SQL.git">🔗 View Repo</a>
+    </td>
+    <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
+      <b>Bank_churn-SQL-PROJECT
+</b><br/>
+      <a href="https://github.com/shrutipitale/Bank_churn-SQL-PROJECT.git">🔗 View Repo</a>
+    </td>
+    <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
+      <b>India Premier League
+</b><br/>
+      <a href="https://github.com/shrutipitale/Chicago-Crime-Analysis-Dashboard-Excel.git">🔗 View Dashboard</a>
+    </td>
+        <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
+      <b>Swiggy-SQL
+</b><br/>
+      <a href="https://github.com/shrutipitale/Swiggy-SQL.git">🔗 View Dashboard</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 Excel Dashboards
+<table>
+  <tr>
+    <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
+      <b>✈️ Aviation Accident Analysis Dashboard | Data Analytics Project</b><br/>
+      <a href="https://github.com/shrutipitale/Aviation-Dashbaord-Excel.git">🔗 View Repo</a>
+    </td>
+    <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
+      <b>⚡ Electric Vehicle Data Analysis | Data Visualization Project
+</b><br/>
+      <a href="https://github.com/shrutipitale/Electric-Vehicle-Dashboard-Excel.git">🔗 View Repo</a>
+    </td>
+    <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
+      <b>🛒 E-Commerce Sales Dashboard | Business Intelligence Project
+</b><br/>
+      <a href="https://github.com/shrutipitale/Chicago-Crime-Analysis-Dashboard-Excel.git">🔗 View Dashboard</a>
+    </td>
+    <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
+      <b>Chicago-Crime-Analysis-Excel-Data Visualization Dashboard</b><br/>
+      <a href="https://github.com/shrutipitale/Chicago-Crime-Analysis-Excel.git">🔗 View Repo</a>
+    </td>
+  </tr>
+</table>
+
 ## 📊 Tableau Dashboards
 <table>
   <tr>
@@ -205,6 +256,14 @@ Welcome! Explore my **data engineering, analytics, and data science projects** a
     <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
       <b>Road Accidents Dashboard Tableau</b><br/>
       <a href="https://github.com/shrutipitale/Tableau/tree/54674912e1b4f445241e6b0c30b299ee4414d0b6/Road%20Accident%20Dashboard">🔗 View Repo</a>
+    </td>
+        <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
+      <b>Airport-Accident-Analysis-Tableau</b><br/>
+      <a href="https://github.com/shrutipitale/Airport-Accident-Analysis-Tableau.git">🔗 View Repo</a>
+    </td>
+            <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
+      <b>Vehicle Insurance Cross-Sell Analysis – Tableau Dashboard</b><br/>
+      <a href="https://github.com/shrutipitale/Vehicle-Insurance-Cross-Sell-Analysis-Tableau.git">🔗 View Repo</a>
     </td>
   </tr>
 </table>
@@ -226,7 +285,12 @@ Welcome! Explore my **data engineering, analytics, and data science projects** a
       <b>Amazon Prime Video in Power BI</b><br/>
       <a href="https://github.com/shrutipitale/PowerBi/tree/3f55d6e9282dafd5ec71ab3546c66d56bf79bcde/Amazon%20Prime">🔗 View Repo</a>
     </td>
+        <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
+      <b>Hotel Management Dashboard – Power BI Project</b><br/>
+      <a href="https://github.com/shrutipitale/Hotel-Management-Dashboard.git">🔗 View Repo</a>
+    </td>
   </tr>
+  
   <tr>
     <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
       <b>FIFA World Cup in Power BI</b><br/>
@@ -239,6 +303,10 @@ Welcome! Explore my **data engineering, analytics, and data science projects** a
     <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
       <b>Ecommerce Analysis in Power BI</b><br/>
       <a href="https://github.com/shrutipitale/case-study-ecommerce-analysis-in-power-bi.git">🔗 View Repo</a>
+    </td>
+        <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
+      <b>✈️ Aviation Accident Analysis (India)</b><br/>
+      <a href="https://github.com/shrutipitale/Aviation-Accident-Analysis.git">🔗 View Repo</a>
     </td>
   </tr>
   <tr>
@@ -253,6 +321,10 @@ Welcome! Explore my **data engineering, analytics, and data science projects** a
     <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
       <b>HR Analytics in Power BI</b><br/>
       <a href="https://github.com/shrutipitale/case-study-hr-analytics-in-power-bi.git">🔗 View Repo</a>
+    </td>
+      <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
+      <b>🚗 Insurance Risk & Claim Analysis Dashboard</b><br/>
+      <a href="https://github.com/shrutipitale/Insurance-Risk-Claim-Analysis-Dashboard.git">🔗 View Repo</a>
     </td>
   </tr>
   <tr>
@@ -277,6 +349,10 @@ Welcome! Explore my **data engineering, analytics, and data science projects** a
     <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
       <b>Bank Loans in Power BI</b><br/>
       <a href="https://github.com/shrutipitale/PowerBi/tree/0ae3bac5c368969ced6d2df99973ae662fcd4e9e/Bank%20Loan">🔗 View Repo</a>
+    </td>
+      <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
+      <b>Meta Ad Performance Dashboard -Powerbi</b><br/>
+      <a href="https://github.com/shrutipitale/Meta-Ad-Performance-Analysis---Powerbi.git">🔗 View Repo</a>
     </td>
   </tr>
 </table>
