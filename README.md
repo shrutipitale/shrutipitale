@@ -271,7 +271,7 @@ Welcome! Explore my **data engineering, analytics, and data science projects** a
     </td>
     <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
       <b>Road Accidents Dashboard Tableau</b><br/>
-      <a href="https://github.com/shrutipitale/Tableau/tree/54674912e1b4f445241e6b0c30b299ee4414d0b6/Road%20Accident%20Dashboard">🔗 View Repo</a>
+      <a href="https://github.com/shrutipitale/Bank-Loan-Analysis-PowerBI.git">🔗 View Repo</a>
     </td>
         <td align="center" style="border:2px solid #ccc; border-radius:10px; padding:10px;">
       <b>Airport-Accident-Analysis-Tableau</b><br/>
